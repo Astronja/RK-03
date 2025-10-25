@@ -1,0 +1,33 @@
+{
+    "desc": "Available primary commands of Exusiai:",
+    "subc": {
+        "guess": {
+            "desc": "Guess-the-Operator game",
+            "subc": {
+                "start": {
+                    "desc": "Start a guess game."
+                },
+                "end": {
+                    "desc": "End an existing guess game."
+                },
+                "update": {
+                    "desc": "Update the database of guess game."
+                },
+                "[operator]": {
+                    "desc": "Enter your guess of the operator."
+                }
+            }
+        },
+        "bday": {
+            "desc": "Find out whose birthday is it today!",
+            "subc": {
+                "update": {
+                    "desc":"Update the birthday database."
+                },
+                "[operator]": {
+                    "desc": "Search up the operator's birthdate."
+                }
+            }
+        }
+    }
+}

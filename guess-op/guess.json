@@ -1,0 +1,3161 @@
+{
+  "12F": {
+    "name": "12F",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 2,
+    "race": "Savra"
+  },
+  "Aak": {
+    "name": "Aak",
+    "class": "Specialist",
+    "branch": "Geek",
+    "position": "Ranged",
+    "region": "Lee's Detective Agency",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Absinthe": {
+    "name": "Absinthe",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Ursus",
+    "rarity": 5,
+    "race": "Ursus"
+  },
+  "Aciddrop": {
+    "name": "Aciddrop",
+    "class": "Sniper",
+    "branch": "Heavyshooter",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Liberi"
+  },
+  "Adnachiel": {
+    "name": "Adnachiel",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Op Reserve A4",
+    "rarity": 3,
+    "race": "Sankta"
+  },
+  "Akafuyu": {
+    "name": "Akafuyu",
+    "class": "Guard",
+    "branch": "Soloblade",
+    "position": "Melee",
+    "region": "Higashi",
+    "rarity": 5,
+    "race": "Aegir"
+  },
+  "Almond": {
+    "name": "Almond",
+    "class": "Specialist",
+    "branch": "Hookmaster",
+    "position": "Both",
+    "region": "Blacksteel",
+    "rarity": 5,
+    "race": "Perro"
+  },
+  "Ambriel": {
+    "name": "Ambriel",
+    "class": "Sniper",
+    "branch": "Deadeye",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 4,
+    "race": "Sankta"
+  },
+  "Amiya": {
+    "name": "Amiya",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Cautus"
+  },
+  "Andreana": {
+    "name": "Andreana",
+    "class": "Sniper",
+    "branch": "Deadeye",
+    "position": "Ranged",
+    "region": "Abyssal Hunters",
+    "rarity": 5,
+    "race": "Aegir"
+  },
+  "Angelina": {
+    "name": "Angelina",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 6,
+    "race": "Vulpo"
+  },
+  "Ansel": {
+    "name": "Ansel",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Op Reserve A4",
+    "rarity": 3,
+    "race": "Cautus"
+  },
+  "Aosta": {
+    "name": "Aosta",
+    "class": "Sniper",
+    "branch": "Spreadshooter",
+    "position": "Ranged",
+    "region": "Chiave's Gang",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "April": {
+    "name": "April",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Cautus"
+  },
+  "Archetto": {
+    "name": "Archetto",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "Arene": {
+    "name": "Arene",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Laterano",
+    "rarity": 4,
+    "race": "Sankta"
+  },
+  "Aroma": {
+    "name": "Aroma",
+    "class": "Caster",
+    "branch": "Blast",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Asbestos": {
+    "name": "Asbestos",
+    "class": "Defender",
+    "branch": "Arts Protector",
+    "position": "Melee",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Savra"
+  },
+  "Ascalon": {
+    "name": "Ascalon",
+    "class": "Specialist",
+    "branch": "Ambusher",
+    "position": "Melee",
+    "region": "S.W.E.E.P.",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Ash": {
+    "name": "Ash",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Team Rainbow",
+    "rarity": 6,
+    "race": "Unknown"
+  },
+  "Ashlock": {
+    "name": "Ashlock",
+    "class": "Defender",
+    "branch": "Fortress",
+    "position": "Melee",
+    "region": "Pinus Sylvestris",
+    "rarity": 5,
+    "race": "Zalak"
+  },
+  "Astesia": {
+    "name": "Astesia",
+    "class": "Guard",
+    "branch": "Arts Fighter",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Astgenne": {
+    "name": "Astgenne",
+    "class": "Caster",
+    "branch": "Chain",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Aurora": {
+    "name": "Aurora",
+    "class": "Defender",
+    "branch": "Duelist",
+    "position": "Melee",
+    "region": "Karlan Trade",
+    "rarity": 5,
+    "race": "Ursus"
+  },
+  "Ayerscarpe": {
+    "name": "Ayerscarpe",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Cautus"
+  },
+  "Bagpipe": {
+    "name": "Bagpipe",
+    "class": "Vanguard",
+    "branch": "Charger",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 6,
+    "race": "Vouivre"
+  },
+  "Bassline": {
+    "name": "Bassline",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Leithanien",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Beagle": {
+    "name": "Beagle",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Op Reserve A1",
+    "rarity": 3,
+    "race": "Perro"
+  },
+  "Beanstalk": {
+    "name": "Beanstalk",
+    "class": "Vanguard",
+    "branch": "Tactician",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Reproba"
+  },
+  "Beehunter": {
+    "name": "Beehunter",
+    "class": "Guard",
+    "branch": "Fighter",
+    "position": "Melee",
+    "region": "Ursus",
+    "rarity": 4,
+    "race": "Ursus"
+  },
+  "Beeswax": {
+    "name": "Beeswax",
+    "class": "Caster",
+    "branch": "Phalanx",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Caprinae"
+  },
+  "Bena": {
+    "name": "Bena",
+    "class": "Specialist",
+    "branch": "Dollkeeper",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Caprinae"
+  },
+  "Bibeak": {
+    "name": "Bibeak",
+    "class": "Guard",
+    "branch": "Swordmaster",
+    "position": "Melee",
+    "region": "Sami",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Bison": {
+    "name": "Bison",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Lungmen",
+    "rarity": 5,
+    "race": "Forte"
+  },
+  "Blacknight": {
+    "name": "Blacknight",
+    "class": "Vanguard",
+    "branch": "Tactician",
+    "position": "Ranged",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Savra"
+  },
+  "Blaze": {
+    "name": "Blaze",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Elite Op",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Blemishine": {
+    "name": "Blemishine",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Kazimierz",
+    "rarity": 6,
+    "race": "Kuranta"
+  },
+  "Blitz": {
+    "name": "Blitz",
+    "class": "Defender",
+    "branch": "Sentry Protector",
+    "position": "Melee",
+    "region": "Team Rainbow",
+    "rarity": 5,
+    "race": "Unknown"
+  },
+  "Blue Poison": {
+    "name": "Blue Poison",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Iberia",
+    "rarity": 5,
+    "race": "Anura"
+  },
+  "Bobbing": {
+    "name": "Bobbing",
+    "class": "Supporter",
+    "branch": "Ritualist",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Perro"
+  },
+  "Breeze": {
+    "name": "Breeze",
+    "class": "Medic",
+    "branch": "Multi-target",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Vulpo"
+  },
+  "Broca": {
+    "name": "Broca",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Chiave's Gang",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Bryophyta": {
+    "name": "Bryophyta",
+    "class": "Guard",
+    "branch": "Instructor",
+    "position": "Melee",
+    "region": "Siesta",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Bubble": {
+    "name": "Bubble",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 4,
+    "race": "Cerato"
+  },
+  "Cantabile": {
+    "name": "Cantabile",
+    "class": "Vanguard",
+    "branch": "Agent",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Caper": {
+    "name": "Caper",
+    "class": "Sniper",
+    "branch": "Loopshooter",
+    "position": "Ranged",
+    "region": "Bolívar",
+    "rarity": 4,
+    "race": "Cautus"
+  },
+  "Cardigan": {
+    "name": "Cardigan",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Op Reserve A4",
+    "rarity": 3,
+    "race": "Perro"
+  },
+  "Carnelian": {
+    "name": "Carnelian",
+    "class": "Caster",
+    "branch": "Phalanx",
+    "position": "Ranged",
+    "region": "Leithanien",
+    "rarity": 6,
+    "race": "Caprinae"
+  },
+  "Castle-3": {
+    "name": "Castle-3",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 1,
+    "race": "Undefined"
+  },
+  "Catapult": {
+    "name": "Catapult",
+    "class": "Sniper",
+    "branch": "Artilleryman",
+    "position": "Ranged",
+    "region": "Op Reserve A6",
+    "rarity": 3,
+    "race": "Kuranta"
+  },
+  "Catherine": {
+    "name": "Catherine",
+    "class": "Supporter",
+    "branch": "Artificer",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Cement": {
+    "name": "Cement",
+    "class": "Defender",
+    "branch": "Duelist",
+    "position": "Melee",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Zalak"
+  },
+  "Ceobe": {
+    "name": "Ceobe",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Perro"
+  },
+  "Ceylon": {
+    "name": "Ceylon",
+    "class": "Medic",
+    "branch": "Therapist",
+    "position": "Ranged",
+    "region": "Siesta",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Ch'en": {
+    "name": "Ch'en",
+    "class": "Guard",
+    "branch": "Swordmaster",
+    "position": "Melee",
+    "region": "Lungmen Guard Department",
+    "rarity": 6,
+    "race": "Lung"
+  },
+  "Ch'en the Holungday": {
+    "name": "Ch'en the Holungday",
+    "class": "Sniper",
+    "branch": "Spreadshooter",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Lung"
+  },
+  "Chestnut": {
+    "name": "Chestnut",
+    "class": "Medic",
+    "branch": "Wandering",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Durin"
+  },
+  "Chiave": {
+    "name": "Chiave",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Chiave's Gang",
+    "rarity": 5,
+    "race": "Vulpo"
+  },
+  "Chilchuck": {
+    "name": "Chilchuck",
+    "class": "Vanguard",
+    "branch": "Agent",
+    "position": "Melee",
+    "region": "Laios's Party",
+    "rarity": 5,
+    "race": "Delicious on Terra"
+  },
+  "Chongyue": {
+    "name": "Chongyue",
+    "class": "Guard",
+    "branch": "Fighter",
+    "position": "Melee",
+    "region": "Sui",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Civilight Eterna": {
+    "name": "Civilight Eterna",
+    "class": "Supporter",
+    "branch": "Bard",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Click": {
+    "name": "Click",
+    "class": "Caster",
+    "branch": "Mech-Accord",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Zalak"
+  },
+  "Cliffheart": {
+    "name": "Cliffheart",
+    "class": "Specialist",
+    "branch": "Hookmaster",
+    "position": "Both",
+    "region": "Karlan Trade",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Coldshot": {
+    "name": "Coldshot",
+    "class": "Sniper",
+    "branch": "Hunter",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Elafia"
+  },
+  "Contrail": {
+    "name": "Contrail",
+    "class": "Specialist",
+    "branch": "Skyranger",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Zalak"
+  },
+  "Conviction": {
+    "name": "Conviction",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Minos",
+    "rarity": 4,
+    "race": "Unknown"
+  },
+  "Corroserum": {
+    "name": "Corroserum",
+    "class": "Caster",
+    "branch": "Blast",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Phidia"
+  },
+  "Courier": {
+    "name": "Courier",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Karlan Trade",
+    "rarity": 4,
+    "race": "Itra"
+  },
+  "Croissant": {
+    "name": "Croissant",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Penguin Logistics",
+    "rarity": 5,
+    "race": "Forte"
+  },
+  "Crownslayer": {
+    "name": "Crownslayer",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Reproba"
+  },
+  "Cuora": {
+    "name": "Cuora",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Petram"
+  },
+  "Cutter": {
+    "name": "Cutter",
+    "class": "Guard",
+    "branch": "Swordmaster",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Vulpo"
+  },
+  "Czerny": {
+    "name": "Czerny",
+    "class": "Defender",
+    "branch": "Arts Protector",
+    "position": "Melee",
+    "region": "Leithanien",
+    "rarity": 5,
+    "race": "Elafia"
+  },
+  "Dagda": {
+    "name": "Dagda",
+    "class": "Guard",
+    "branch": "Fighter",
+    "position": "Melee",
+    "region": "Glasgow",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Deepcolor": {
+    "name": "Deepcolor",
+    "class": "Supporter",
+    "branch": "Summoner",
+    "position": "Ranged",
+    "region": "Aegir",
+    "rarity": 4,
+    "race": "Undisclosed"
+  },
+  "Degenbrecher": {
+    "name": "Degenbrecher",
+    "class": "Guard",
+    "branch": "Swordmaster",
+    "position": "Melee",
+    "region": "Karlan Trade",
+    "rarity": 6,
+    "race": "Caprinae"
+  },
+  "Delphine": {
+    "name": "Delphine",
+    "class": "Caster",
+    "branch": "Mystic",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Diamante": {
+    "name": "Diamante",
+    "class": "Caster",
+    "branch": "Primal",
+    "position": "Ranged",
+    "region": "Leithanien",
+    "rarity": 5,
+    "race": "Caprinae"
+  },
+  "Dobermann": {
+    "name": "Dobermann",
+    "class": "Guard",
+    "branch": "Instructor",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Perro"
+  },
+  "Doc": {
+    "name": "Doc",
+    "class": "Guard",
+    "branch": "Instructor",
+    "position": "Melee",
+    "region": "Team Rainbow",
+    "rarity": 5,
+    "race": "Unknown"
+  },
+  "Dorothy": {
+    "name": "Dorothy",
+    "class": "Specialist",
+    "branch": "Trapmaster",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 6,
+    "race": "Zalak"
+  },
+  "Dur-nar": {
+    "name": "Dur-nar",
+    "class": "Defender",
+    "branch": "Arts Protector",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Vulpo"
+  },
+  "Durin": {
+    "name": "Durin",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Op A4",
+    "rarity": 2,
+    "race": "Durin"
+  },
+  "Dusk": {
+    "name": "Dusk",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Sui",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Earthspirit": {
+    "name": "Earthspirit",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Leithanien",
+    "rarity": 4,
+    "race": "Caprinae"
+  },
+  "Ebenholz": {
+    "name": "Ebenholz",
+    "class": "Caster",
+    "branch": "Mystic",
+    "position": "Ranged",
+    "region": "Leithanien",
+    "rarity": 6,
+    "race": "Caprinae"
+  },
+  "Ela": {
+    "name": "Ela",
+    "class": "Specialist",
+    "branch": "Trapmaster",
+    "position": "Ranged",
+    "region": "Team Rainbow",
+    "rarity": 6,
+    "race": "Unknown"
+  },
+  "Elysium": {
+    "name": "Elysium",
+    "class": "Vanguard",
+    "branch": "Standard Bearer",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Enforcer": {
+    "name": "Enforcer",
+    "class": "Specialist",
+    "branch": "Push Stroker",
+    "position": "Both",
+    "region": "Laterano",
+    "rarity": 5,
+    "race": "Sankta"
+  },
+  "Erato": {
+    "name": "Erato",
+    "class": "Sniper",
+    "branch": "Besieger",
+    "position": "Ranged",
+    "region": "Minos",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Estelle": {
+    "name": "Estelle",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 4,
+    "race": "Archosauria"
+  },
+  "Ethan": {
+    "name": "Ethan",
+    "class": "Specialist",
+    "branch": "Ambusher",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Savra"
+  },
+  "Eunectes": {
+    "name": "Eunectes",
+    "class": "Defender",
+    "branch": "Duelist",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 6,
+    "race": "Phidia"
+  },
+  "Executor": {
+    "name": "Executor",
+    "class": "Sniper",
+    "branch": "Spreadshooter",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 5,
+    "race": "Sankta"
+  },
+  "Executor the Ex Foedere": {
+    "name": "Executor the Ex Foedere",
+    "class": "Guard",
+    "branch": "Reaper",
+    "position": "Melee",
+    "region": "Laterano",
+    "rarity": 6,
+    "race": "Sankta"
+  },
+  "Exusiai": {
+    "name": "Exusiai",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Penguin Logistics",
+    "rarity": 6,
+    "race": "Sankta"
+  },
+  "Eyjafjalla": {
+    "name": "Eyjafjalla",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Leithanien",
+    "rarity": 6,
+    "race": "Caprinae"
+  },
+  "Eyjafjalla the Hvít Aska": {
+    "name": "Eyjafjalla the Hvít Aska",
+    "class": "Medic",
+    "branch": "Wandering",
+    "position": "Ranged",
+    "region": "Leithanien",
+    "rarity": 6,
+    "race": "Caprinae"
+  },
+  "Fang": {
+    "name": "Fang",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Op Reserve A1",
+    "rarity": 3,
+    "race": "Kuranta"
+  },
+  "Fang the Fire-Sharpened": {
+    "name": "Fang the Fire-Sharpened",
+    "class": "Vanguard",
+    "branch": "Charger",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Fartooth": {
+    "name": "Fartooth",
+    "class": "Sniper",
+    "branch": "Deadeye",
+    "position": "Ranged",
+    "region": "Pinus Sylvestris",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "FEater": {
+    "name": "FEater",
+    "class": "Specialist",
+    "branch": "Push Stroker",
+    "position": "Both",
+    "region": "Lungmen",
+    "rarity": 5,
+    "race": "Ursus"
+  },
+  "Fiammetta": {
+    "name": "Fiammetta",
+    "class": "Sniper",
+    "branch": "Artilleryman",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "Figurino": {
+    "name": "Figurino",
+    "class": "Specialist",
+    "branch": "Merchant",
+    "position": "Melee",
+    "region": "Siracusa",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Firewatch": {
+    "name": "Firewatch",
+    "class": "Sniper",
+    "branch": "Deadeye",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Elafia"
+  },
+  "Firewhistle": {
+    "name": "Firewhistle",
+    "class": "Defender",
+    "branch": "Fortress",
+    "position": "Melee",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Flamebringer": {
+    "name": "Flamebringer",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Flametail": {
+    "name": "Flametail",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Pinus Sylvestris",
+    "rarity": 6,
+    "race": "Zalak"
+  },
+  "Flint": {
+    "name": "Flint",
+    "class": "Guard",
+    "branch": "Fighter",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Folinic": {
+    "name": "Folinic",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Franka": {
+    "name": "Franka",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Blacksteel",
+    "rarity": 5,
+    "race": "Vulpo"
+  },
+  "Friston-3": {
+    "name": "Friston-3",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 1,
+    "race": "Undefined"
+  },
+  "Frost": {
+    "name": "Frost",
+    "class": "Specialist",
+    "branch": "Trapmaster",
+    "position": "Ranged",
+    "region": "Team Rainbow",
+    "rarity": 5,
+    "race": "Unknown"
+  },
+  "Frostleaf": {
+    "name": "Frostleaf",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Vulpo"
+  },
+  "Fuze": {
+    "name": "Fuze",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Team Rainbow",
+    "rarity": 5,
+    "race": "Unknown"
+  },
+  "Gavial": {
+    "name": "Gavial",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Archosauria"
+  },
+  "Gavial the Invincible": {
+    "name": "Gavial the Invincible",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Archosauria"
+  },
+  "Gitano": {
+    "name": "Gitano",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Sami",
+    "rarity": 4,
+    "race": "Elafia"
+  },
+  "Gladiia": {
+    "name": "Gladiia",
+    "class": "Specialist",
+    "branch": "Hookmaster",
+    "position": "Both",
+    "region": "Abyssal Hunters",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Glaucus": {
+    "name": "Glaucus",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Iberia",
+    "rarity": 5,
+    "race": "Undisclosed"
+  },
+  "Gnosis": {
+    "name": "Gnosis",
+    "class": "Supporter",
+    "branch": "Hexer",
+    "position": "Ranged",
+    "region": "Karlan Trade",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "Goldenglow": {
+    "name": "Goldenglow",
+    "class": "Caster",
+    "branch": "Mech-Accord",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Grain Buds": {
+    "name": "Grain Buds",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Grani": {
+    "name": "Grani",
+    "class": "Vanguard",
+    "branch": "Charger",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Gravel": {
+    "name": "Gravel",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Kazimierz",
+    "rarity": 4,
+    "race": "Zalak"
+  },
+  "GreyThroat": {
+    "name": "GreyThroat",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Greyy": {
+    "name": "Greyy",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Bolívar",
+    "rarity": 4,
+    "race": "Perro"
+  },
+  "Greyy the Lightningbearer": {
+    "name": "Greyy the Lightningbearer",
+    "class": "Sniper",
+    "branch": "Flinger",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Perro"
+  },
+  "Gummy": {
+    "name": "Gummy",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Ursus Student Self-Governing Group",
+    "rarity": 4,
+    "race": "Ursus"
+  },
+  "Harmonie": {
+    "name": "Harmonie",
+    "class": "Caster",
+    "branch": "Mystic",
+    "position": "Ranged",
+    "region": "Tara",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Harold": {
+    "name": "Harold",
+    "class": "Medic",
+    "branch": "Wandering",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Haze": {
+    "name": "Haze",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 4,
+    "race": "Feline"
+  },
+  "Heavyrain": {
+    "name": "Heavyrain",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Heidi": {
+    "name": "Heidi",
+    "class": "Supporter",
+    "branch": "Bard",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Hellagur": {
+    "name": "Hellagur",
+    "class": "Guard",
+    "branch": "Soloblade",
+    "position": "Melee",
+    "region": "Ursus",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "Hibiscus": {
+    "name": "Hibiscus",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Op Reserve A1",
+    "rarity": 3,
+    "race": "Sarkaz"
+  },
+  "Hibiscus the Purifier": {
+    "name": "Hibiscus the Purifier",
+    "class": "Medic",
+    "branch": "Incantation",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Highmore": {
+    "name": "Highmore",
+    "class": "Guard",
+    "branch": "Reaper",
+    "position": "Melee",
+    "region": "Iberia",
+    "rarity": 5,
+    "race": "Aegir"
+  },
+  "Ho'olheyak": {
+    "name": "Ho'olheyak",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Hoederer": {
+    "name": "Hoederer",
+    "class": "Guard",
+    "branch": "Crusher",
+    "position": "Melee",
+    "region": "Babel",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Honeyberry": {
+    "name": "Honeyberry",
+    "class": "Medic",
+    "branch": "Wandering",
+    "position": "Ranged",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Zalak"
+  },
+  "Horn": {
+    "name": "Horn",
+    "class": "Defender",
+    "branch": "Fortress",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 6,
+    "race": "Lupo"
+  },
+  "Hoshiguma": {
+    "name": "Hoshiguma",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Lungmen Guard Department",
+    "rarity": 6,
+    "race": "Oni"
+  },
+  "Humus": {
+    "name": "Humus",
+    "class": "Guard",
+    "branch": "Reaper",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Forte"
+  },
+  "Hung": {
+    "name": "Hung",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Lee's Detective Agency",
+    "rarity": 5,
+    "race": "Perro"
+  },
+  "Iana": {
+    "name": "Iana",
+    "class": "Specialist",
+    "branch": "Dollkeeper",
+    "position": "Melee",
+    "region": "Team Rainbow",
+    "rarity": 5,
+    "race": "Unknown"
+  },
+  "Ifrit": {
+    "name": "Ifrit",
+    "class": "Caster",
+    "branch": "Blast",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Indigo": {
+    "name": "Indigo",
+    "class": "Caster",
+    "branch": "Mystic",
+    "position": "Ranged",
+    "region": "Iberia",
+    "rarity": 4,
+    "race": "Phidia"
+  },
+  "Indra": {
+    "name": "Indra",
+    "class": "Guard",
+    "branch": "Fighter",
+    "position": "Melee",
+    "region": "Glasgow",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Ines": {
+    "name": "Ines",
+    "class": "Vanguard",
+    "branch": "Agent",
+    "position": "Melee",
+    "region": "Babel",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Insider": {
+    "name": "Insider",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 5,
+    "race": "Sankta"
+  },
+  "Irene": {
+    "name": "Irene",
+    "class": "Guard",
+    "branch": "Swordmaster",
+    "position": "Melee",
+    "region": "Iberia",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "Iris": {
+    "name": "Iris",
+    "class": "Caster",
+    "branch": "Mystic",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Istina": {
+    "name": "Istina",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Ursus Student Self-Governing Group",
+    "rarity": 5,
+    "race": "Ursus"
+  },
+  "Jackie": {
+    "name": "Jackie",
+    "class": "Guard",
+    "branch": "Fighter",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Perro"
+  },
+  "Jaye": {
+    "name": "Jaye",
+    "class": "Specialist",
+    "branch": "Merchant",
+    "position": "Melee",
+    "region": "Lungmen",
+    "rarity": 4,
+    "race": "Ursus"
+  },
+  "Jessica": {
+    "name": "Jessica",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Blacksteel",
+    "rarity": 4,
+    "race": "Feline"
+  },
+  "Jessica the Liberated": {
+    "name": "Jessica the Liberated",
+    "class": "Defender",
+    "branch": "Sentry Protector",
+    "position": "Melee",
+    "region": "Blacksteel",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Jieyun": {
+    "name": "Jieyun",
+    "class": "Sniper",
+    "branch": "Artilleryman",
+    "position": "Ranged",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Anasa"
+  },
+  "Justice Knight": {
+    "name": "Justice Knight",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Pinus Sylvestris",
+    "rarity": 1,
+    "race": "Undefined"
+  },
+  "Kafka": {
+    "name": "Kafka",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Kal'tsit": {
+    "name": "Kal'tsit",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Kazemaru": {
+    "name": "Kazemaru",
+    "class": "Specialist",
+    "branch": "Dollkeeper",
+    "position": "Melee",
+    "region": "Higashi",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Kestrel": {
+    "name": "Kestrel",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Kirara": {
+    "name": "Kirara",
+    "class": "Specialist",
+    "branch": "Ambusher",
+    "position": "Melee",
+    "region": "Higashi",
+    "rarity": 5,
+    "race": "Aegir"
+  },
+  "Kirin R Yato": {
+    "name": "Kirin R Yato",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Op A4",
+    "rarity": 6,
+    "race": "Oni"
+  },
+  "Kjera": {
+    "name": "Kjera",
+    "class": "Caster",
+    "branch": "Mech-Accord",
+    "position": "Ranged",
+    "region": "Karlan Trade",
+    "rarity": 5,
+    "race": "Undisclosed"
+  },
+  "Kroos": {
+    "name": "Kroos",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Op Reserve A1",
+    "rarity": 3,
+    "race": "Cautus"
+  },
+  "Kroos the Keen Glint": {
+    "name": "Kroos the Keen Glint",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Cautus"
+  },
+  "La Pluma": {
+    "name": "La Pluma",
+    "class": "Guard",
+    "branch": "Reaper",
+    "position": "Melee",
+    "region": "Bolívar",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Laios": {
+    "name": "Laios",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Laios's Party",
+    "rarity": 5,
+    "race": "Delicious on Terra"
+  },
+  "Lancet-2": {
+    "name": "Lancet-2",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 1,
+    "race": "Undefined"
+  },
+  "Lappland": {
+    "name": "Lappland",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Siracusa",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Lappland the Decadenza": {
+    "name": "Lappland the Decadenza",
+    "class": "Caster",
+    "branch": "Mech-Accord",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 6,
+    "race": "Lupo"
+  },
+  "Lava": {
+    "name": "Lava",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Op Reserve A1",
+    "rarity": 3,
+    "race": "Sarkaz"
+  },
+  "Lava the Purgatory": {
+    "name": "Lava the Purgatory",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Lee": {
+    "name": "Lee",
+    "class": "Specialist",
+    "branch": "Merchant",
+    "position": "Melee",
+    "region": "Lee's Detective Agency",
+    "rarity": 6,
+    "race": "Lung"
+  },
+  "Leizi": {
+    "name": "Leizi",
+    "class": "Caster",
+    "branch": "Chain",
+    "position": "Ranged",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Kylin"
+  },
+  "Leonhardt": {
+    "name": "Leonhardt",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Cautus"
+  },
+  "Lessing": {
+    "name": "Lessing",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Leithanien",
+    "rarity": 6,
+    "race": "Caprinae"
+  },
+  "Leto": {
+    "name": "Leto",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Ursus Student Self-Governing Group",
+    "rarity": 5,
+    "race": "Ursus"
+  },
+  "Lin": {
+    "name": "Lin",
+    "class": "Caster",
+    "branch": "Phalanx",
+    "position": "Ranged",
+    "region": "Lungmen",
+    "rarity": 6,
+    "race": "Zalak"
+  },
+  "Ling": {
+    "name": "Ling",
+    "class": "Supporter",
+    "branch": "Summoner",
+    "position": "Ranged",
+    "region": "Sui",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Liskarm": {
+    "name": "Liskarm",
+    "class": "Defender",
+    "branch": "Sentry Protector",
+    "position": "Melee",
+    "region": "Blacksteel",
+    "rarity": 5,
+    "race": "Vouivre"
+  },
+  "Logos": {
+    "name": "Logos",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Elite Op",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Lucilla": {
+    "name": "Lucilla",
+    "class": "Supporter",
+    "branch": "Hexer",
+    "position": "Ranged",
+    "region": "Aegir",
+    "rarity": 5,
+    "race": "Aegir"
+  },
+  "Lumen": {
+    "name": "Lumen",
+    "class": "Medic",
+    "branch": "Therapist",
+    "position": "Ranged",
+    "region": "Iberia",
+    "rarity": 6,
+    "race": "Aegir"
+  },
+  "Lunacub": {
+    "name": "Lunacub",
+    "class": "Sniper",
+    "branch": "Deadeye",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Luo Xiaohei": {
+    "name": "Luo Xiaohei",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Yan",
+    "rarity": 4,
+    "race": "Feline"
+  },
+  "Lutonada": {
+    "name": "Lutonada",
+    "class": "Defender",
+    "branch": "Juggernaut",
+    "position": "Melee",
+    "region": "Bolívar",
+    "rarity": 4,
+    "race": "Zalak"
+  },
+  "Magallan": {
+    "name": "Magallan",
+    "class": "Supporter",
+    "branch": "Summoner",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "Manticore": {
+    "name": "Manticore",
+    "class": "Specialist",
+    "branch": "Ambusher",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Manticore"
+  },
+  "Marcille": {
+    "name": "Marcille",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Laios's Party",
+    "rarity": 6,
+    "race": "Delicious on Terra"
+  },
+  "Matoimaru": {
+    "name": "Matoimaru",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Higashi",
+    "rarity": 4,
+    "race": "Oni"
+  },
+  "Matterhorn": {
+    "name": "Matterhorn",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Karlan Trade",
+    "rarity": 4,
+    "race": "Forte"
+  },
+  "May": {
+    "name": "May",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 4,
+    "race": "Liberi"
+  },
+  "Mayer": {
+    "name": "Mayer",
+    "class": "Supporter",
+    "branch": "Summoner",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 5,
+    "race": "Anaty"
+  },
+  "Melanite": {
+    "name": "Melanite",
+    "class": "Sniper",
+    "branch": "Heavyshooter",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Phidia"
+  },
+  "Melantha": {
+    "name": "Melantha",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Op Reserve A4",
+    "rarity": 3,
+    "race": "Feline"
+  },
+  "Meteor": {
+    "name": "Meteor",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Kazimierz",
+    "rarity": 4,
+    "race": "Kuranta"
+  },
+  "Meteorite": {
+    "name": "Meteorite",
+    "class": "Sniper",
+    "branch": "Artilleryman",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Midnight": {
+    "name": "Midnight",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Op Reserve A6",
+    "rarity": 3,
+    "race": "Sarkaz"
+  },
+  "Minimalist": {
+    "name": "Minimalist",
+    "class": "Caster",
+    "branch": "Mech-Accord",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Durin"
+  },
+  "Mint": {
+    "name": "Mint",
+    "class": "Caster",
+    "branch": "Phalanx",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Mitm": {
+    "name": "Mitm",
+    "class": "Vanguard",
+    "branch": "Tactician",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Mizuki": {
+    "name": "Mizuki",
+    "class": "Specialist",
+    "branch": "Ambusher",
+    "position": "Melee",
+    "region": "Higashi",
+    "rarity": 6,
+    "race": "Aegir"
+  },
+  "Morgan": {
+    "name": "Morgan",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Glasgow",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Mostima": {
+    "name": "Mostima",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Mountain": {
+    "name": "Mountain",
+    "class": "Guard",
+    "branch": "Fighter",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Mousse": {
+    "name": "Mousse",
+    "class": "Guard",
+    "branch": "Arts Fighter",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 4,
+    "race": "Feline"
+  },
+  "Mr. Nothing": {
+    "name": "Mr. Nothing",
+    "class": "Specialist",
+    "branch": "Merchant",
+    "position": "Melee",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Mudrock": {
+    "name": "Mudrock",
+    "class": "Defender",
+    "branch": "Juggernaut",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Muelsyse": {
+    "name": "Muelsyse",
+    "class": "Vanguard",
+    "branch": "Tactician",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 6,
+    "race": "Elf"
+  },
+  "Mulberry": {
+    "name": "Mulberry",
+    "class": "Medic",
+    "branch": "Wandering",
+    "position": "Ranged",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Myrrh": {
+    "name": "Myrrh",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Vulpo"
+  },
+  "Myrtle": {
+    "name": "Myrtle",
+    "class": "Vanguard",
+    "branch": "Standard Bearer",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Durin"
+  },
+  "Młynar": {
+    "name": "Młynar",
+    "class": "Guard",
+    "branch": "Liberator",
+    "position": "Melee",
+    "region": "Kazimierz",
+    "rarity": 6,
+    "race": "Kuranta"
+  },
+  "Narantuya": {
+    "name": "Narantuya",
+    "class": "Sniper",
+    "branch": "Loopshooter",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 6,
+    "race": "Kuranta"
+  },
+  "Nearl": {
+    "name": "Nearl",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Followers",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Nearl the Radiant Knight": {
+    "name": "Nearl the Radiant Knight",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Kazimierz",
+    "rarity": 6,
+    "race": "Kuranta"
+  },
+  "Nian": {
+    "name": "Nian",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Sui",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Nightingale": {
+    "name": "Nightingale",
+    "class": "Medic",
+    "branch": "Multi-target",
+    "position": "Ranged",
+    "region": "Followers",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Nightmare": {
+    "name": "Nightmare",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Nine-Colored Deer": {
+    "name": "Nine-Colored Deer",
+    "class": "Supporter",
+    "branch": "Abjurer",
+    "position": "Ranged",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Elafia"
+  },
+  "Noir Corne": {
+    "name": "Noir Corne",
+    "class": "Defender",
+    "branch": "Protector",
+    "position": "Melee",
+    "region": "Op A4",
+    "rarity": 2,
+    "race": "Oni"
+  },
+  "Nymph": {
+    "name": "Nymph",
+    "class": "Caster",
+    "branch": "Primal",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Odda": {
+    "name": "Odda",
+    "class": "Guard",
+    "branch": "Earthshaker",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Orchid": {
+    "name": "Orchid",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Op Reserve A6",
+    "rarity": 3,
+    "race": "Liberi"
+  },
+  "Pallas": {
+    "name": "Pallas",
+    "class": "Guard",
+    "branch": "Instructor",
+    "position": "Melee",
+    "region": "Minos",
+    "rarity": 6,
+    "race": "Forte"
+  },
+  "Paprika": {
+    "name": "Paprika",
+    "class": "Medic",
+    "branch": "Chain",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Papyrus": {
+    "name": "Papyrus",
+    "class": "Medic",
+    "branch": "Chain",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Passenger": {
+    "name": "Passenger",
+    "class": "Caster",
+    "branch": "Chain",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "Penance": {
+    "name": "Penance",
+    "class": "Defender",
+    "branch": "Juggernaut",
+    "position": "Melee",
+    "region": "Siracusa",
+    "rarity": 6,
+    "race": "Lupo"
+  },
+  "Pepe": {
+    "name": "Pepe",
+    "class": "Guard",
+    "branch": "Earthshaker",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Perfumer": {
+    "name": "Perfumer",
+    "class": "Medic",
+    "branch": "Multi-target",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Vulpo"
+  },
+  "Phantom": {
+    "name": "Phantom",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Philae": {
+    "name": "Philae",
+    "class": "Defender",
+    "branch": "Primal Protector",
+    "position": "Melee",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "PhonoR-0": {
+    "name": "PhonoR-0",
+    "class": "Supporter",
+    "branch": "Ritualist",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 1,
+    "race": "Undefined"
+  },
+  "Pinecone": {
+    "name": "Pinecone",
+    "class": "Sniper",
+    "branch": "Spreadshooter",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Liberi"
+  },
+  "Platinum": {
+    "name": "Platinum",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Kazimierz",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Plume": {
+    "name": "Plume",
+    "class": "Vanguard",
+    "branch": "Charger",
+    "position": "Melee",
+    "region": "Laterano",
+    "rarity": 3,
+    "race": "Liberi"
+  },
+  "Podenco": {
+    "name": "Podenco",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Perro"
+  },
+  "Poncirus": {
+    "name": "Poncirus",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Siesta",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Popukar": {
+    "name": "Popukar",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Op Reserve A6",
+    "rarity": 3,
+    "race": "Cautus"
+  },
+  "Pozëmka": {
+    "name": "Pozëmka",
+    "class": "Sniper",
+    "branch": "Heavyshooter",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Lupo"
+  },
+  "Pramanix": {
+    "name": "Pramanix",
+    "class": "Supporter",
+    "branch": "Hexer",
+    "position": "Ranged",
+    "region": "Karlan Trade",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Projekt Red": {
+    "name": "Projekt Red",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "S.W.E.E.P.",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Provence": {
+    "name": "Provence",
+    "class": "Sniper",
+    "branch": "Heavyshooter",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Proviso": {
+    "name": "Proviso",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Kazimierz",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Ptilopsis": {
+    "name": "Ptilopsis",
+    "class": "Medic",
+    "branch": "Multi-target",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Pudding": {
+    "name": "Pudding",
+    "class": "Caster",
+    "branch": "Chain",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Aegir"
+  },
+  "Purestream": {
+    "name": "Purestream",
+    "class": "Medic",
+    "branch": "Therapist",
+    "position": "Ranged",
+    "region": "Yan",
+    "rarity": 4,
+    "race": "Aegir"
+  },
+  "Puzzle": {
+    "name": "Puzzle",
+    "class": "Vanguard",
+    "branch": "Agent",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Vouivre"
+  },
+  "Qanipalaat": {
+    "name": "Qanipalaat",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Sami",
+    "rarity": 5,
+    "race": "Vulpo"
+  },
+  "Qiubai": {
+    "name": "Qiubai",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Yan",
+    "rarity": 6,
+    "race": "Elafia"
+  },
+  "Quartz": {
+    "name": "Quartz",
+    "class": "Guard",
+    "branch": "Crusher",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Lupo"
+  },
+  "Quercus": {
+    "name": "Quercus",
+    "class": "Supporter",
+    "branch": "Abjurer",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Rangers": {
+    "name": "Rangers",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Op A4",
+    "rarity": 2,
+    "race": "Savra"
+  },
+  "Rathalos S Noir Corne": {
+    "name": "Rathalos S Noir Corne",
+    "class": "Guard",
+    "branch": "Soloblade",
+    "position": "Melee",
+    "region": "Op A4",
+    "rarity": 5,
+    "race": "Oni"
+  },
+  "Ray": {
+    "name": "Ray",
+    "class": "Sniper",
+    "branch": "Hunter",
+    "position": "Ranged",
+    "region": "Rim Billiton",
+    "rarity": 6,
+    "race": "Cautus"
+  },
+  "Reed": {
+    "name": "Reed",
+    "class": "Vanguard",
+    "branch": "Charger",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Draco"
+  },
+  "Reed the Flame Shadow": {
+    "name": "Reed the Flame Shadow",
+    "class": "Medic",
+    "branch": "Incantation",
+    "position": "Ranged",
+    "region": "Tara",
+    "rarity": 6,
+    "race": "Draco"
+  },
+  "Roberta": {
+    "name": "Roberta",
+    "class": "Supporter",
+    "branch": "Artificer",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Anaty"
+  },
+  "Robin": {
+    "name": "Robin",
+    "class": "Specialist",
+    "branch": "Trapmaster",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Anaty"
+  },
+  "Rockrock": {
+    "name": "Rockrock",
+    "class": "Caster",
+    "branch": "Mech-Accord",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Rope": {
+    "name": "Rope",
+    "class": "Specialist",
+    "branch": "Hookmaster",
+    "position": "Both",
+    "region": "Lungmen",
+    "rarity": 4,
+    "race": "Cautus"
+  },
+  "Rosa": {
+    "name": "Rosa",
+    "class": "Sniper",
+    "branch": "Besieger",
+    "position": "Ranged",
+    "region": "Ursus Student Self-Governing Group",
+    "rarity": 6,
+    "race": "Ursus"
+  },
+  "Rosmontis": {
+    "name": "Rosmontis",
+    "class": "Sniper",
+    "branch": "Flinger",
+    "position": "Ranged",
+    "region": "Elite Op",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Saga": {
+    "name": "Saga",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Higashi",
+    "rarity": 6,
+    "race": "Perro"
+  },
+  "Saileach": {
+    "name": "Saileach",
+    "class": "Vanguard",
+    "branch": "Standard Bearer",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 6,
+    "race": "Vouivre"
+  },
+  "Sand Reckoner": {
+    "name": "Sand Reckoner",
+    "class": "Supporter",
+    "branch": "Summoner",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Santalla": {
+    "name": "Santalla",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Sami",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Saria": {
+    "name": "Saria",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Rhine Lab",
+    "rarity": 6,
+    "race": "Vouivre"
+  },
+  "Savage": {
+    "name": "Savage",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Cautus"
+  },
+  "Scavenger": {
+    "name": "Scavenger",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "S.W.E.E.P.",
+    "rarity": 4,
+    "race": "Zalak"
+  },
+  "Scene": {
+    "name": "Scene",
+    "class": "Supporter",
+    "branch": "Summoner",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Pilosa"
+  },
+  "Schwarz": {
+    "name": "Schwarz",
+    "class": "Sniper",
+    "branch": "Heavyshooter",
+    "position": "Ranged",
+    "region": "Siesta",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Senshi": {
+    "name": "Senshi",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Laios's Party",
+    "rarity": 5,
+    "race": "Delicious on Terra"
+  },
+  "Sesa": {
+    "name": "Sesa",
+    "class": "Sniper",
+    "branch": "Artilleryman",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Vouivre"
+  },
+  "Shalem": {
+    "name": "Shalem",
+    "class": "Defender",
+    "branch": "Arts Protector",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Phidia"
+  },
+  "Shamare": {
+    "name": "Shamare",
+    "class": "Supporter",
+    "branch": "Hexer",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 5,
+    "race": "Vulpo"
+  },
+  "Shaw": {
+    "name": "Shaw",
+    "class": "Specialist",
+    "branch": "Push Stroker",
+    "position": "Both",
+    "region": "Lungmen",
+    "rarity": 4,
+    "race": "Zalak"
+  },
+  "Shining": {
+    "name": "Shining",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Followers",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Shirayuki": {
+    "name": "Shirayuki",
+    "class": "Sniper",
+    "branch": "Artilleryman",
+    "position": "Ranged",
+    "region": "Higashi",
+    "rarity": 4,
+    "race": "Anaty"
+  },
+  "Shu": {
+    "name": "Shu",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Sui",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Sideroca": {
+    "name": "Sideroca",
+    "class": "Guard",
+    "branch": "Arts Fighter",
+    "position": "Melee",
+    "region": "Minos",
+    "rarity": 5,
+    "race": "Forte"
+  },
+  "Siege": {
+    "name": "Siege",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Glasgow",
+    "rarity": 6,
+    "race": "Aslan"
+  },
+  "Silence": {
+    "name": "Silence",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Silence the Paradigmatic": {
+    "name": "Silence the Paradigmatic",
+    "class": "Supporter",
+    "branch": "Abjurer",
+    "position": "Ranged",
+    "region": "Rhine Lab",
+    "rarity": 6,
+    "race": "Liberi"
+  },
+  "SilverAsh": {
+    "name": "SilverAsh",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Karlan Trade",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Skadi": {
+    "name": "Skadi",
+    "class": "Guard",
+    "branch": "Dreadnought",
+    "position": "Melee",
+    "region": "Abyssal Hunters",
+    "rarity": 6,
+    "race": "Unknown"
+  },
+  "Skadi the Corrupting Heart": {
+    "name": "Skadi the Corrupting Heart",
+    "class": "Supporter",
+    "branch": "Bard",
+    "position": "Ranged",
+    "region": "Aegir",
+    "rarity": 6,
+    "race": "Undisclosed"
+  },
+  "Skyfire": {
+    "name": "Skyfire",
+    "class": "Caster",
+    "branch": "Splash",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Snowsant": {
+    "name": "Snowsant",
+    "class": "Specialist",
+    "branch": "Hookmaster",
+    "position": "Both",
+    "region": "Lungmen",
+    "rarity": 5,
+    "race": "Liberi"
+  },
+  "Sora": {
+    "name": "Sora",
+    "class": "Supporter",
+    "branch": "Bard",
+    "position": "Ranged",
+    "region": "Penguin Logistics",
+    "rarity": 5,
+    "race": "Unknown"
+  },
+  "Specter": {
+    "name": "Specter",
+    "class": "Guard",
+    "branch": "Centurion",
+    "position": "Melee",
+    "region": "Abyssal Hunters",
+    "rarity": 5,
+    "race": "Undisclosed"
+  },
+  "Specter the Unchained": {
+    "name": "Specter the Unchained",
+    "class": "Specialist",
+    "branch": "Dollkeeper",
+    "position": "Melee",
+    "region": "Abyssal Hunters",
+    "rarity": 6,
+    "race": "Aegir"
+  },
+  "Spot": {
+    "name": "Spot",
+    "class": "Defender",
+    "branch": "Guardian",
+    "position": "Melee",
+    "region": "Op Reserve A6",
+    "rarity": 3,
+    "race": "Rebbah"
+  },
+  "Spuria": {
+    "name": "Spuria",
+    "class": "Specialist",
+    "branch": "Geek",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 5,
+    "race": "Sankta"
+  },
+  "Stainless": {
+    "name": "Stainless",
+    "class": "Supporter",
+    "branch": "Artificer",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Steward": {
+    "name": "Steward",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Op Reserve A4",
+    "rarity": 3,
+    "race": "Vulpo"
+  },
+  "Surtr": {
+    "name": "Surtr",
+    "class": "Guard",
+    "branch": "Arts Fighter",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Sussurro": {
+    "name": "Sussurro",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 4,
+    "race": "Vulpo"
+  },
+  "Suzuran": {
+    "name": "Suzuran",
+    "class": "Supporter",
+    "branch": "Decel Binder",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 6,
+    "race": "Vulpo"
+  },
+  "Swire": {
+    "name": "Swire",
+    "class": "Guard",
+    "branch": "Instructor",
+    "position": "Melee",
+    "region": "Lungmen Guard Department",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Swire the Elegant Wit": {
+    "name": "Swire the Elegant Wit",
+    "class": "Specialist",
+    "branch": "Merchant",
+    "position": "Melee",
+    "region": "Lungmen",
+    "rarity": 6,
+    "race": "Feline"
+  },
+  "Tachanka": {
+    "name": "Tachanka",
+    "class": "Guard",
+    "branch": "Swordmaster",
+    "position": "Melee",
+    "region": "Team Rainbow",
+    "rarity": 5,
+    "race": "Unknown"
+  },
+  "Tequila": {
+    "name": "Tequila",
+    "class": "Guard",
+    "branch": "Liberator",
+    "position": "Melee",
+    "region": "Bolívar",
+    "rarity": 5,
+    "race": "Perro"
+  },
+  "Terra Research Commission": {
+    "name": "Terra Research Commission",
+    "class": "Sniper",
+    "branch": "Flinger",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 1,
+    "race": "Undisclosed"
+  },
+  "Texas": {
+    "name": "Texas",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Penguin Logistics",
+    "rarity": 5,
+    "race": "Lupo"
+  },
+  "Texas the Omertosa": {
+    "name": "Texas the Omertosa",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Penguin Logistics",
+    "rarity": 6,
+    "race": "Lupo"
+  },
+  "Thorns": {
+    "name": "Thorns",
+    "class": "Guard",
+    "branch": "Lord",
+    "position": "Melee",
+    "region": "Iberia",
+    "rarity": 6,
+    "race": "Aegir"
+  },
+  "THRM-EX": {
+    "name": "THRM-EX",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Rhodes Island",
+    "rarity": 1,
+    "race": "Undefined"
+  },
+  "Tin Man": {
+    "name": "Tin Man",
+    "class": "Specialist",
+    "branch": "Alchemist",
+    "position": "Ranged",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Undisclosed"
+  },
+  "Toddifons": {
+    "name": "Toddifons",
+    "class": "Sniper",
+    "branch": "Besieger",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Vouivre"
+  },
+  "Tomimi": {
+    "name": "Tomimi",
+    "class": "Caster",
+    "branch": "Core",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Archosauria"
+  },
+  "Totter": {
+    "name": "Totter",
+    "class": "Sniper",
+    "branch": "Besieger",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 4,
+    "race": "Liberi"
+  },
+  "Tsukinogi": {
+    "name": "Tsukinogi",
+    "class": "Supporter",
+    "branch": "Abjurer",
+    "position": "Ranged",
+    "region": "Higashi",
+    "rarity": 5,
+    "race": "Elafia"
+  },
+  "Tuye": {
+    "name": "Tuye",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Sargon",
+    "rarity": 5,
+    "race": "Forte"
+  },
+  "Typhon": {
+    "name": "Typhon",
+    "class": "Sniper",
+    "branch": "Besieger",
+    "position": "Ranged",
+    "region": "Sami",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "U-Official": {
+    "name": "U-Official",
+    "class": "Supporter",
+    "branch": "Bard",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 1,
+    "race": "Zalak"
+  },
+  "Ulpianus": {
+    "name": "Ulpianus",
+    "class": "Guard",
+    "branch": "Crusher",
+    "position": "Melee",
+    "region": "Abyssal Hunters",
+    "rarity": 6,
+    "race": "Aegir"
+  },
+  "Underflow": {
+    "name": "Underflow",
+    "class": "Defender",
+    "branch": "Sentry Protector",
+    "position": "Melee",
+    "region": "Aegir",
+    "rarity": 5,
+    "race": "Aegir"
+  },
+  "Utage": {
+    "name": "Utage",
+    "class": "Guard",
+    "branch": "Soloblade",
+    "position": "Melee",
+    "region": "Higashi",
+    "rarity": 4,
+    "race": "Unknown"
+  },
+  "Valarqvin": {
+    "name": "Valarqvin",
+    "class": "Supporter",
+    "branch": "Ritualist",
+    "position": "Ranged",
+    "region": "Sami",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Vanilla": {
+    "name": "Vanilla",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Blacksteel",
+    "rarity": 3,
+    "race": "Vouivre"
+  },
+  "Vendela": {
+    "name": "Vendela",
+    "class": "Medic",
+    "branch": "Incantation",
+    "position": "Ranged",
+    "region": "Victoria",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Verdant": {
+    "name": "Verdant",
+    "class": "Specialist",
+    "branch": "Dollkeeper",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 4,
+    "race": "Phidia"
+  },
+  "Vermeil": {
+    "name": "Vermeil",
+    "class": "Sniper",
+    "branch": "Marksman",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 4,
+    "race": "Vulpo"
+  },
+  "Vigil": {
+    "name": "Vigil",
+    "class": "Vanguard",
+    "branch": "Tactician",
+    "position": "Ranged",
+    "region": "Siracusa",
+    "rarity": 6,
+    "race": "Lupo"
+  },
+  "Vigna": {
+    "name": "Vigna",
+    "class": "Vanguard",
+    "branch": "Charger",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 4,
+    "race": "Sarkaz"
+  },
+  "Vina Victoria": {
+    "name": "Vina Victoria",
+    "class": "Guard",
+    "branch": "Arts Fighter",
+    "position": "Melee",
+    "region": "Victoria",
+    "rarity": 6,
+    "race": "Aslan"
+  },
+  "Virtuosa": {
+    "name": "Virtuosa",
+    "class": "Supporter",
+    "branch": "Ritualist",
+    "position": "Ranged",
+    "region": "Laterano",
+    "rarity": 6,
+    "race": "Sankta"
+  },
+  "Viviana": {
+    "name": "Viviana",
+    "class": "Guard",
+    "branch": "Arts Fighter",
+    "position": "Melee",
+    "region": "Leithanien",
+    "rarity": 6,
+    "race": "Elafia"
+  },
+  "Vulcan": {
+    "name": "Vulcan",
+    "class": "Defender",
+    "branch": "Juggernaut",
+    "position": "Melee",
+    "region": "Minos",
+    "rarity": 5,
+    "race": "Forte"
+  },
+  "Vulpisfoglia": {
+    "name": "Vulpisfoglia",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Siracusa",
+    "rarity": 6,
+    "race": "Vulpo"
+  },
+  "W": {
+    "name": "W",
+    "class": "Sniper",
+    "branch": "Artilleryman",
+    "position": "Ranged",
+    "region": "Babel",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Waai Fu": {
+    "name": "Waai Fu",
+    "class": "Specialist",
+    "branch": "Executor",
+    "position": "Melee",
+    "region": "Lee's Detective Agency",
+    "rarity": 5,
+    "race": "Feline"
+  },
+  "Wanqing": {
+    "name": "Wanqing",
+    "class": "Vanguard",
+    "branch": "Standard Bearer",
+    "position": "Melee",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Forte"
+  },
+  "Warfarin": {
+    "name": "Warfarin",
+    "class": "Medic",
+    "branch": "Medic",
+    "position": "Ranged",
+    "region": "Rhodes Island",
+    "rarity": 5,
+    "race": "Sarkaz"
+  },
+  "Warmy": {
+    "name": "Warmy",
+    "class": "Caster",
+    "branch": "Primal",
+    "position": "Ranged",
+    "region": "Rim Billiton",
+    "rarity": 5,
+    "race": "Cautus"
+  },
+  "Weedy": {
+    "name": "Weedy",
+    "class": "Specialist",
+    "branch": "Push Stroker",
+    "position": "Both",
+    "region": "Rhodes Island",
+    "rarity": 6,
+    "race": "Aegir"
+  },
+  "Whislash": {
+    "name": "Whislash",
+    "class": "Guard",
+    "branch": "Instructor",
+    "position": "Melee",
+    "region": "Kazimierz",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Whisperain": {
+    "name": "Whisperain",
+    "class": "Medic",
+    "branch": "Therapist",
+    "position": "Ranged",
+    "region": "Iberia",
+    "rarity": 5,
+    "race": "Aegir"
+  },
+  "Wild Mane": {
+    "name": "Wild Mane",
+    "class": "Vanguard",
+    "branch": "Charger",
+    "position": "Melee",
+    "region": "Pinus Sylvestris",
+    "rarity": 5,
+    "race": "Kuranta"
+  },
+  "Wind Chimes": {
+    "name": "Wind Chimes",
+    "class": "Guard",
+    "branch": "Crusher",
+    "position": "Melee",
+    "region": "Yan",
+    "rarity": 5,
+    "race": "Forte"
+  },
+  "Windflit": {
+    "name": "Windflit",
+    "class": "Supporter",
+    "branch": "Artificer",
+    "position": "Melee",
+    "region": "Columbia",
+    "rarity": 5,
+    "race": "Perro"
+  },
+  "Wiš'adel": {
+    "name": "Wiš'adel",
+    "class": "Sniper",
+    "branch": "Flinger",
+    "position": "Ranged",
+    "region": "Babel",
+    "rarity": 6,
+    "race": "Sarkaz"
+  },
+  "Yato": {
+    "name": "Yato",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Op A4",
+    "rarity": 2,
+    "race": "Oni"
+  },
+  "Zima": {
+    "name": "Zima",
+    "class": "Vanguard",
+    "branch": "Pioneer",
+    "position": "Melee",
+    "region": "Ursus Student Self-Governing Group",
+    "rarity": 5,
+    "race": "Ursus"
+  },
+  "Zuo Le": {
+    "name": "Zuo Le",
+    "class": "Guard",
+    "branch": "Soloblade",
+    "position": "Melee",
+    "region": "Yan",
+    "rarity": 6,
+    "race": "Phidia"
+  }
+}
